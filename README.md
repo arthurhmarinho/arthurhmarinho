@@ -10,7 +10,7 @@ Minhas principais competências incluem o desenvolvimento front-end e back-end, 
 
 * **Linguagens e Tecnologias:**
     * **TypeScript** | **JavaScript**
-    * **HTML** | **CSS** | **Rust** | **Java** |
+    * **HTML** | **CSS** | **Rust** | **Java** 
 
 Estou em constante aprendizado, explorando ativamente novas tecnologias para expandir meu conjunto de ferramentas:
 
