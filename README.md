@@ -15,7 +15,7 @@ Minhas principais competências incluem o desenvolvimento front-end e back-end, 
 Estou em constante aprendizado, explorando ativamente novas tecnologias para expandir meu conjunto de ferramentas:
 
 * **Em Estudo:**
-    * **C++** | **SQL** | **Docker**
+    * **C++** | **SQL** | **Docker** | **Go** | **Kotlin**
    
 ---
 
