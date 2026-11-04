@@ -14,7 +14,7 @@ agora ....... mirage · chocalho · octuschat
 ```
 
 Escrevo software porque gosto de entender como as coisas funcionam por dentro.
-No estágio, sou o único dev de sistemas multi-tenant em produção; fora dele, construo
+No estágio, sou dev de sistemas multi-tenant em produção; fora dele, construo
 o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrependimento.
 
 ---
