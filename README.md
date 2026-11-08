@@ -36,7 +36,7 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 |---|---|
 | **[chocalho](https://github.com/arthurhmarinho/chocalho)** | gestão de rebanho offline-first para pequenos criadores de caprinos e ovinos do semiárido nordestino |
 | **[octuschat](https://github.com/arthurhmarinho/octuschat)** | plataforma de automação de conversas com editor visual de fluxos |
-| **[mirage](https://github.com/arthurhmarinho/mirage)** | honeypot que registra tentativas de ataque e transforma em dashboards |
+| **[morgana](https://github.com/arthurhmarinho/morgana)** | honeypot que registra tentativas de ataque e transforma em dashboards |
 
 ---
 
