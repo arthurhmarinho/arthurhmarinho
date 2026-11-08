@@ -10,7 +10,7 @@ trabalho .... estagiário de software @ Grupo Carbo
 notebook .... Void Linux · niri
 editor ...... Zed / Neovim (lazyvim)
 terminal .... kitty / ghostty · starship · JetBrainsMono NF
-agora ....... mirage · chocalho · octuschat
+agora ....... morgana · chocalho · octuschat
 ```
 
 Escrevo software porque gosto de entender como as coisas funcionam por dentro.
