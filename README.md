@@ -10,7 +10,7 @@ trabalho .... estagiário de software @ Grupo Carbo
 notebook .... Void Linux · niri
 editor ...... Zed / Neovim (lazyvim)
 terminal .... kitty / ghostty · starship · JetBrainsMono NF
-agora ....... morgana · chocalho · octuschat
+agora ....... shellcord · morgana · chocalho · octuschat
 ```
 
 Escrevo software porque gosto de entender como as coisas funcionam por dentro.
@@ -37,6 +37,7 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 | **[chocalho](https://github.com/arthurhmarinho/chocalho)** | gestão de rebanho offline-first para pequenos criadores de caprinos e ovinos do semiárido nordestino |
 | **[octuschat](https://github.com/arthurhmarinho/octuschat)** | plataforma de automação de conversas com editor visual de fluxos |
 | **[morgana](https://github.com/arthurhmarinho/morgana)** | honeypot que registra tentativas de ataque e transforma em dashboards |
+| **[shellcord](https://github.com/arthurhmarinho/shellcord)** | discord rich presence do terminal: mostra no perfil o que roda no fish e no Claude Code |
 
 ---
 
