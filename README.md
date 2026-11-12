@@ -7,7 +7,7 @@ arthur@ufrn
 ───────────
 curso ....... Ciências e Tecnologia @ UFRN
 trabalho .... estagiário de software @ Grupo Carbo
-notebook .... Void Linux · niri
+notebook .... Void Linux · swayfx
 editor ...... Zed / Neovim (lazyvim)
 terminal .... kitty / ghostty · starship · JetBrainsMono NF
 agora ....... shellcord · morgana · chocalho · octuschat
