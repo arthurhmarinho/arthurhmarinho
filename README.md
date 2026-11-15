@@ -14,7 +14,7 @@ agora ....... shellcord · morgana · chocalho · octuschat
 ```
 
 Escrevo software porque gosto de entender como as coisas funcionam por dentro.
-No estágio, sou dev de sistemas multi-tenant em produção; fora dele, construo
+No estágio construo sistemas multi-tenant com isolamento no banco (Postgres + RLS), um app Android de telemetria veicular e um app de alerta de manutenção; fora dele, construo
 o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrependimento.
 
 ---
@@ -22,10 +22,10 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 #### 🧰 stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,java,spring,go,rust&theme=dark" alt="TypeScript, Java, Spring, Go, Rust" />
+<img src="https://skillicons.dev/icons?i=ts,go,java,kotlin,rust,react&theme=dark" alt="TypeScript, Go, Java, Kotlin, Rust, React" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,linux,git&theme=dark" alt="PostgreSQL, Linux, Git" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,git&theme=dark" alt="PostgreSQL, Supabase, Docker, Linux, Git" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 | projeto | o que é |
 |---|---|
 | **[chocalho](https://github.com/arthurhmarinho/chocalho)** | gestão de rebanho offline-first para pequenos criadores de caprinos e ovinos do semiárido nordestino |
-| **[octuschat](https://github.com/arthurhmarinho/octuschat)** | plataforma de automação de conversas com editor visual de fluxos |
+| **[octuschat](https://github.com/arthurhmarinho/octuschat)** | automação de DMs do Instagram no estilo ManyChat (por comentário ou palavra-chave) |
 | **[morgana](https://github.com/arthurhmarinho/morgana)** | honeypot que registra tentativas de ataque e transforma em dashboards |
 | **[shellcord](https://github.com/arthurhmarinho/shellcord)** | discord rich presence do terminal: mostra no perfil o que roda no fish e no Claude Code |
 
@@ -44,6 +44,6 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 #### 📫 onde me achar
 
 <p>
-  <a href="https://www.linkedin.com/in/arthur-marinho-dev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/arthurhrqx/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/arthur-marinho-dev"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/arthurhrqx/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
