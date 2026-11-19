@@ -10,7 +10,7 @@ trabalho .... estagiário de software @ Grupo Carbo
 notebook .... Void Linux · swayfx
 editor ...... Zed / Neovim (lazyvim)
 terminal .... kitty / ghostty · starship · JetBrainsMono NF
-agora ....... shellcord · morgana · chocalho · octuschat
+agora ....... zapterm · shellcord · morgana · chocalho · octuschat
 ```
 
 Escrevo software porque gosto de entender como as coisas funcionam por dentro.
@@ -34,6 +34,7 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 
 | projeto | o que é |
 |---|---|
+| **[zapterm](https://github.com/arthurhmarinho/zapterm)** | WhatsApp no terminal (kitty), em Go: conversas, fotos, figurinhas, áudio e notificações, com daemon + TUI e dados só na sua máquina. Cliente não oficial |
 | **[chocalho](https://github.com/arthurhmarinho/chocalho)** | gestão de rebanho offline-first para pequenos criadores de caprinos e ovinos do semiárido nordestino |
 | **[octuschat](https://github.com/arthurhmarinho/octuschat)** | automação de DMs do Instagram no estilo ManyChat (por comentário ou palavra-chave) |
 | **[morgana](https://github.com/arthurhmarinho/morgana)** | honeypot que registra tentativas de ataque e transforma em dashboards |
