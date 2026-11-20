@@ -6,7 +6,7 @@
 arthur@ufrn
 ───────────
 curso ....... Ciências e Tecnologia @ UFRN
-trabalho .... estagiário de software @ Grupo Carbo
+trabalho .... voluntário @ lab. de circuitos e sinais (CTEC/UFRN)
 notebook .... Void Linux · swayfx
 editor ...... Zed / Neovim (lazyvim)
 terminal .... kitty / ghostty · starship · JetBrainsMono NF
@@ -14,7 +14,8 @@ agora ....... zapterm · shellcord · morgana · chocalho · octuschat
 ```
 
 Escrevo software porque gosto de entender como as coisas funcionam por dentro.
-No estágio construo sistemas multi-tenant com isolamento no banco (Postgres + RLS), um app Android de telemetria veicular e um app de alerta de manutenção; fora dele, construo
+No estágio no Grupo Carbo construí sistemas multi-tenant com isolamento no banco (Postgres + RLS), um app Android de telemetria veicular e um app de alerta de manutenção.
+Agora estou num laboratório de modelagem de circuitos e análise de sinais na UFRN. Fora do trabalho, construo
 o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrependimento.
 
 ---
