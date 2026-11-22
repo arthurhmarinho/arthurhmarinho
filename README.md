@@ -27,7 +27,7 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 </p>
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,git,vercel,postman&theme=dark" alt="PostgreSQL, Supabase, Docker, Linux, Git, Vercel, Postman" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+<img src="https://raw.githubusercontent.com/arthurhmarinho/arthurhmarinho/main/assets/render.svg" height="48" alt="Render" />
 </p>
 
 ---
