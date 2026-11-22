@@ -23,10 +23,11 @@ o que me dá curiosidade — e passo tempo demais configurando Linux, sem arrepe
 #### 🧰 stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,go,java,kotlin,rust,react&theme=dark" alt="TypeScript, Go, Java, Kotlin, Rust, React" />
+<img src="https://skillicons.dev/icons?i=ts,py,go,java,kotlin,rust,react&theme=dark" alt="TypeScript, Python, Go, Java, Kotlin, Rust, React" />
 </p>
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,git&theme=dark" alt="PostgreSQL, Supabase, Docker, Linux, Git" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,git,vercel,postman&theme=dark" alt="PostgreSQL, Supabase, Docker, Linux, Git, Vercel, Postman" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
 ---
